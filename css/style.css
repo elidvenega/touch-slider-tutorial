@@ -17,7 +17,7 @@ body {
     line-height: 1.7;
 }
 
-.slide-container {
+.slider-container {
     height: 100vh;
     display: inline-flex;
     overflow: hidden;
