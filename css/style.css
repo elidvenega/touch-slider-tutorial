@@ -12,7 +12,7 @@ body {
     height: 100%;
     width: 100%;
     overflow: hidden;
-    background-color: #333;
+    background-color: #3d3d3d;
     color: #fff;
     line-height: 1.7;
 }
@@ -55,7 +55,7 @@ body {
 }
 
 .btn {
-    background-color: #444;
+    background-color: #ff9f1a;
     color: #fff;
     text-decoration: none;
     padding: 1rem 1.5rem;
